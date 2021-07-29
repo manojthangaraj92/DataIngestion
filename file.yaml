@@ -1,0 +1,19 @@
+file_type: csv
+dataset_name: Oct
+file_name: Oct
+table_name: Events
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+total_rows: 42448764
+columns: 
+    - event_time
+    - event_type
+    - product_id
+    - category_id
+    - category_code
+    - brand
+    - price
+    - user_id
+    - user_session
+   
